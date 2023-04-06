@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Water</string>
+
+    <string name="main_bottom_tab_home">홈</string>
+    <string name="main_bottom_tab_record">기록</string>
+    <string name="main_bottom_tab_price">물가</string>
+
+</resources>
